@@ -18,9 +18,9 @@
 
 ## ログ
 
-| 読む範囲                                                | 対象期間                 | ログ            |
-| :--                                                     | :--                      | :--             |
-| 目次/謝辞/序文/Read Me/RTFM (Read the Forgotten Manual) | 2016-12-04 〜 2016-12-10 | {{Placeholder}} |
+| 対象期間                                                                 | 読む範囲                                                |
+| :--                                                                      | :--                                                     |
+| [2016-12-04 〜 2016-12-10](https://github.com/yochiyochirb/vim/issues/1) | 目次/謝辞/序文/Read Me/RTFM (Read the Forgotten Manual) |
 
 
 ## その他
