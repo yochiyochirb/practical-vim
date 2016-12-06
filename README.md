@@ -18,9 +18,9 @@
 
 ## ログ
 
-読む範囲                                                | 対象期間                 | ログ
---                                                      | --                       | --
-目次/謝辞/序文/Read Me/RTFM (Read the Forgotten Manual) | 2016-12-04 〜 2016-12-10 | {{Placeholder}}
+| 読む範囲                                                | 対象期間                 | ログ            |
+| :--                                                     | :--                      | :--             |
+| 目次/謝辞/序文/Read Me/RTFM (Read the Forgotten Manual) | 2016-12-04 〜 2016-12-10 | {{Placeholder}} |
 
 
 ## その他
