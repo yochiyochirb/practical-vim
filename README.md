@@ -22,6 +22,9 @@
 | :--                                                                      | :--                                                     |
 | [2016-12-04 〜 2016-12-10](https://github.com/yochiyochirb/vim/issues/1) | 目次/謝辞/序文/Read Me/RTFM (Read the Forgotten Manual) |
 
+## サンプルコード
+
+[sample-code](https://github.com/yochiyochirb/practical-vim/sample-code)
 
 ## その他
 
