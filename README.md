@@ -25,7 +25,7 @@
 
 ## サンプルコード
 
-[code](https://github.com/yochiyochirb/practical-vim/code)
+[code](https://github.com/yochiyochirb/practical-vim/tree/master/code)
 
 ## その他
 
