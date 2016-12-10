@@ -21,6 +21,7 @@
 | 対象期間                                                                 | 読む範囲                                                |
 | :--                                                                      | :--                                                     |
 | [2016-12-04 〜 2016-12-10](https://github.com/yochiyochirb/vim/issues/1) | 目次/謝辞/序文/Read Me/RTFM (Read the Forgotten Manual) |
+| [2016-12-11 〜 2016-12-17](https://github.com/yochiyochirb/vim/issues/2) | 第1章 Vimのやり方                                       |
 
 ## サンプルコード
 
