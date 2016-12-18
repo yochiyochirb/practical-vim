@@ -22,6 +22,7 @@
 | :--                                                                      | :--                                                     |
 | [2016-12-04 〜 2016-12-10](https://github.com/yochiyochirb/vim/issues/1) | 目次/謝辞/序文/Read Me/RTFM (Read the Forgotten Manual) |
 | [2016-12-11 〜 2016-12-17](https://github.com/yochiyochirb/vim/issues/2) | 第1章 Vimのやり方                                       |
+| [2016-12-18 〜 2016-12-24](https://github.com/yochiyochirb/vim/issues/3) | 第1部 第2章 ノーマルモード                              |
 
 ## サンプルコード
 
