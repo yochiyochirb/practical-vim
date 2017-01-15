@@ -24,7 +24,7 @@
 | [2016-12-11 〜 2016-12-17](https://github.com/yochiyochirb/vim/issues/2) | 第1章 Vimのやり方                                       |
 | [2016-12-18 〜 2016-12-24](https://github.com/yochiyochirb/vim/issues/3) | 第1部 第2章 ノーマルモード                              |
 | [2016-12-25 〜 2017-01-07](https://github.com/yochiyochirb/vim/issues/4) | 第1部 第3章 挿入モード                                  |
-| [2017-01-08 〜 2017-01-14](https://github.com/yochiyochirb/vim/issues/5) | 第1部 第4章 ビジュアルモード                            |
+| [2017-01-08 〜 2017-01-21](https://github.com/yochiyochirb/vim/issues/5) | 第1部 第4章 ビジュアルモード                            |
 
 ## サンプルコード
 
