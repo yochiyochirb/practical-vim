@@ -25,8 +25,9 @@
 | [2016-12-18 〜 2016-12-24](https://github.com/yochiyochirb/vim/issues/3) | 第1部 第2章 ノーマルモード                              |
 | [2016-12-25 〜 2017-01-07](https://github.com/yochiyochirb/vim/issues/4) | 第1部 第3章 挿入モード                                  |
 | [2017-01-08 〜 2017-01-21](https://github.com/yochiyochirb/vim/issues/5) | 第1部 第4章 ビジュアルモード                            |
-| [2017-01-22 〜 2017-02-04](https://github.com/yochiyochirb/vim/issues/6) | 第1部 第5章 コマンドラインモード                            |
-| [2017-02-05 〜 2017-02-18](https://github.com/yochiyochirb/vim/issues/7) | 第2部 第6章 複数ファイルの管理                            |
+| [2017-01-22 〜 2017-02-04](https://github.com/yochiyochirb/vim/issues/6) | 第1部 第5章 コマンドラインモード                        |
+| [2017-02-05 〜 2017-02-18](https://github.com/yochiyochirb/vim/issues/7) | 第2部 第6章 複数ファイルの管理                          |
+| [2017-02-19 〜 2017-02-25](https://github.com/yochiyochirb/vim/issues/8) | 第2部 第7章 ファイルのオープンとディスクへの保存        |
 
 ## サンプルコード
 
