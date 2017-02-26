@@ -27,7 +27,8 @@
 | [2017-01-08 〜 2017-01-21](https://github.com/yochiyochirb/vim/issues/5) | 第1部 第4章 ビジュアルモード                            |
 | [2017-01-22 〜 2017-02-04](https://github.com/yochiyochirb/vim/issues/6) | 第1部 第5章 コマンドラインモード                        |
 | [2017-02-05 〜 2017-02-18](https://github.com/yochiyochirb/vim/issues/7) | 第2部 第6章 複数ファイルの管理                          |
-| [2017-02-19 〜 2017-02-25](https://github.com/yochiyochirb/vim/issues/8) | 第2部 第7章 ファイルのオープンとディスクへの保存        |
+| [2017-02-19 〜 2017-02-25](https://github.com/yochiyochirb/vim/issues/8) | 第2部 第7章 ファイルのオープンとディスクへの保存                         |
+| [2017-02-26 〜 2017-03-19](https://github.com/yochiyochirb/vim/issues/9) | 第3部 第8章 モーションによるファイル内の移動                         |
 
 ## サンプルコード
 
